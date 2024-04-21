@@ -11,6 +11,9 @@ Jose worked on Segment 5, which operates on a dictionary named states_w_cities, 
 
 How to run the project:
 
+Download the CSV file from here : https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+
+Name it "realtor-data.zip.csv"
 Open the CSV file. 
 Run the ipynb file.
 Run the app.py file.
